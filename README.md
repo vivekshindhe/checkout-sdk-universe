@@ -9,10 +9,11 @@ Checkout-SDK-Universe helps installing Sample Applications across different plat
 # Run the project
 Run the project with the command `node index.js`
 
-# Support Platforms & Checkout Types
-[*] Android
-[ ] iOS (TBD)
-[*] React-Native
-[ ] Capacitor
-[ ] Ionic with Cordova
-[ ] Cordova standalone
+# Supported Platforms & Checkout Types
+
+- [x] Android
+- [ ] iOS (TBD)
+- [x] React-Native
+- [ ] Capacitor
+- [ ] Ionic with Cordova
+- [ ] Cordova standalone
